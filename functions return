@@ -1,0 +1,10 @@
+function imamullah () {
+let pasta = "cook pasta"
+let chainese = "cook chainese" 
+
+// return chainese & pasta
+}
+imamullah ()
+
+ console.log("return");
+ 
